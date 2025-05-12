@@ -5,7 +5,7 @@ Bienvenue sur la version 2 de mon site portfolio personnel. Ce projet a été r�
 ## 🔗 Aperçu en ligne
 
 Vous pouvez visiter le site en ligne ici :  
-👉 [https://saiftriki.github.io/portfolio-v2/](https://saiftriki.github.io/portfolio-v2/)
+👉 [Cliquez ici pour visiter le site](https://saiftriki.github.io/portfolio-v2/)
 
 ## ⚠ License
 
